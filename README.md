@@ -1,13 +1,13 @@
 # UJIAN AKHIR SEMESTER GENAP 2020/2021
 # PEMROGRAMAN WEB
 
-# Nama : Recha Irfan Trijianto
-# NIM : 311910257
+# Nama : Moh. Hasbi Hasbiyah
+# NIM : 311910711
 # Kelas : TI.19.B2
-# Link demo : https://platzsnow.my.id/  
+# Link demo : 
 
 
-## Aplikasi Sederhana "Kas RT PERUM DDN Berbasis" Codeigniter 4
+## Aplikasi Sederhana "Kas KAMPUNG CIDERES Berbasis" Codeigniter 4
 
 ### Install codeigniter 4
 Download codeigniter dari website resmi, kemudian extract pada folder htdocs yang ada di xampp.
