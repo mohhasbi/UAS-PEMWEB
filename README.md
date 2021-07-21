@@ -17,7 +17,7 @@ Start service http dan mysql pada aplikasi xampp. Kemudian jalankan php spark se
 
 ### Membuat database dan hubungkan dengan CI4
 Membuat database sesuai dengan instruksi yaitu terdiri dari 2 table. Berikut ini desain database nya.
-![desain database]![image](https://user-images.githubusercontent.com/81579730/126353029-f8940a9e-c9a7-4ef0-ba07-abfaf09e514a.png)
+![image](https://user-images.githubusercontent.com/81578584/126445905-6bebfff5-fc85-4b96-ae83-f036742647b0.png)
 
 Setelah berhasil membuat database, selanjutnya adalah menghubungkan CI4 ke database tersebut. Edit file /app/Config/Database.php kemudian masukan nama database di line database.
 
@@ -29,7 +29,7 @@ Membuat model warga dengan cara membuat file baru /app/Models/Warga_model.php. M
 - Membuat fungsi untuk update di halaman edit warga.
 - Membuat fungsi save warga untuk memproses save data pada saat tambah data warga.
 - Dan fungsi hapus data warga.
-![image](https://user-images.githubusercontent.com/81579730/126353535-f1f28c3d-0897-4a1e-8bdc-705c34edc911.png)
+![image](https://user-images.githubusercontent.com/81578584/126446520-a8fc4f86-58ff-49b3-bfda-5c83045945ac.png)
 
 #### Membuat Controller Warga
 Membuat controller baru /app/Controllers/Warga.php. Controller ini berfungsi untuk mengatur tampilan website dan juga untuk memanggil class yang sudah di buat pada Model. Di dalam Controller warga terdapat beberapa controller, antara lain:
@@ -39,7 +39,7 @@ Membuat controller baru /app/Controllers/Warga.php. Controller ini berfungsi unt
 - edit -> untuk menampilkan halaman edit warga.
 - update -> berfungsi sebagai aksi update warga yang kemudian di insert ke database.
 - hapus -> berfungsi untuk menghapus data warga.
-![image](https://user-images.githubusercontent.com/81579730/126354018-0d964ac9-9996-425b-ab6c-69d626defe8a.png)
+![image](https://user-images.githubusercontent.com/81578584/126446678-0101ef5c-14bc-42ba-8609-a4726aa5f5e0.png)
 
 #### Membuat view
 Setelah membuat controller, selanjutnya adalah membuat view atau tampilan websitenya. Buat file view di /app/Views. Untuk CRUD warga view yang di buat antara lain:
