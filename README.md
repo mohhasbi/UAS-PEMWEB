@@ -4,7 +4,7 @@
 # Nama : Moh. Hasbi Hasbiyah
 # NIM : 311910711
 # Kelas : TI.19.B2
-# Link demo : minicshop.my.id
+# Link demo : www.minicshop.my.id
 
 
 ## Aplikasi Sederhana "Kas KAMPUNG CIDERES Berbasis" Codeigniter 4
