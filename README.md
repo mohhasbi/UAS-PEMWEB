@@ -4,7 +4,7 @@
 # Nama : Moh. Hasbi Hasbiyah
 # NIM : 311910711
 # Kelas : TI.19.B2
-# Link demo : www.minicshop.my.id
+# Link demo : https://minicshop.my.id/
 
 
 ## Aplikasi Sederhana "Kas KAMPUNG CIDERES Berbasis" Codeigniter 4
@@ -49,7 +49,7 @@ Setelah membuat controller, selanjutnya adalah membuat view atau tampilan websit
 ![image](https://user-images.githubusercontent.com/81579730/126356137-4e43b183-8b7b-45d5-b82d-9fcc5ba638d9.png)
 
 - tambah_view.php -> untuk menampilkan form tambah warga.
-![image](https://user-images.githubusercontent.com/81579730/126355254-e2d820ef-79c0-41e3-91b2-9d39f8515060.png)
+![image](https://user-images.githubusercontent.com/81578584/126632625-d21d76f3-756a-46e4-973b-2df5f8443f0e.png)
 
 - edit_view.php -> untuk menampilkan form edit warga.
 ![image](https://user-images.githubusercontent.com/81579730/126354927-b499c1b0-f0d9-49dd-a41d-4c9cd5cc33ae.png)
